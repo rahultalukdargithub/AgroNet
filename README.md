@@ -1,6 +1,6 @@
 # AgroNet: An Attention-Enhanced Ensemble Framework for Precision Crop Disease Detection 🌾🤖
 
-**AgroNet** is a deep learning-based system for detecting crop diseases in images of corn, potato, wheat, and rice. The framework integrates ensemble models, including MobileNetV2, InceptionV3, and EfficientNetB1, with attention mechanisms to focus on disease-specific features. It is designed to assist in precision agriculture by providing accurate disease classification and offering practical, real-time solutions for crop health monitoring.
+**AgroNet** is a deep learning-based system for detecting crop diseases in images of corn, potato, wheat, and rice. The framework integrates ensemble models, including MobileNetV2, InceptionV3, and EfficientNetB1, with attention mechanisms to focus on disease-specific features. It is designed to assist in precision agriculture by providing accurate disease classification and offering practical, real-time solutions for crop health.
 
 ## Table of Contents 📜
 
