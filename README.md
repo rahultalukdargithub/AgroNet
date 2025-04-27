@@ -6,6 +6,8 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [System Architecture](#system-architecture)
+- [Frontend UI Preview](#frontend-ui-preview)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Data](#data)
@@ -30,6 +32,20 @@ The need for automated and accurate crop disease detection has become critical t
 - **Generative AI Integration**: Provides detailed disease descriptions and prevention strategies using the Gemini 1.5 Flash model.
 - **Real-Time Deployment**: Can be used with mobile apps, IoT devices, and drones for real-time disease monitoring.
 - **Scalable**: The modular system allows the easy addition of new crop models.
+
+## System Architecture 🏛️
+
+Below is an overview of the AgroNet system architecture:
+
+![System Architecture](./Results/system_architecture.jpg)
+
+## Frontend UI Preview 🎨
+
+Here are some examples of how the UI looks:
+
+| Disease Detection Screen 1 | Disease Detection Screen 2 | Main Frontend Dashboard |
+|:---------------------------:|:---------------------------:|:-----------------------:|
+| ![Screen1](./Results/fr_end1.png) | ![Screen2](./Results/fr_end2.png) | ![Dashboard](./Results/frontend_ui.png) |
 
 ## Installation ⚙️
 
@@ -101,7 +117,7 @@ The need for automated and accurate crop disease detection has become critical t
 
 The dataset used in this project contains images of four major crops (Corn, Potato, Wheat, Rice) and their respective diseases. The images were preprocessed, and augmentations such as rotation, flipping, and brightness adjustments were applied.
 
-**Dataset Link**: [Bangladeshi Crop Disease Dataset on Kaggle](https://www.kaggle.com/datasets/nafishamoin/new-bangladeshi-crop-disease)
+**Dataset Link**: [Bangladeshi Crop Disease Dataset on Kaggle](https://www.kaggle.com/datasets/arafathussain/crop-disease-dataset)
 
 ---
 
