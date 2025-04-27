@@ -23,7 +23,7 @@ The need for automated and accurate crop disease detection has become critical t
 ### Key Features:
 - **Ensemble Learning**: Combines MobileNetV2, InceptionV3, and EfficientNetB1 for robust performance.
 - **Attention Mechanisms**: Refines feature extraction, focusing on the most relevant parts of images.
-- **High Accuracy**: Achieved classification accuracies of 95.68% (Corn), 96.33% (Potato), 95.61% (Wheat), and 98.44% (Rice).
+- **High Accuracy**: Achieved classification accuracies of 95.68% (Corn), 98.16% (Potato), 98.31% (Wheat), and 98.44% (Rice).
 - **Data Augmentation**: Applies various augmentation techniques to improve model generalization.
 
 ## Features 🚀
