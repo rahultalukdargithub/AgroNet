@@ -101,7 +101,7 @@ The need for automated and accurate crop disease detection has become critical t
 
 The dataset used in this project contains images of four major crops (Corn, Potato, Wheat, Rice) and their respective diseases. The images were preprocessed, and augmentations such as rotation, flipping, and brightness adjustments were applied.
 
-**Dataset Link**: [Bangladeshi Crop Disease Dataset on Kaggle](https://www.kaggle.com/datasets/arafathussain/crop-disease-dataset)
+**Dataset Link**: [Bangladeshi Crop Disease Dataset on Kaggle](https://www.kaggle.com/datasets/nafishamoin/new-bangladeshi-crop-disease)
 
 ---
 
